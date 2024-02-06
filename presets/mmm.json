@@ -1,0 +1,23 @@
+{
+    "name": "Monday Morning Misery",
+    "note_height": 755,
+    "hit_delay": 0.065,
+    "notes": {
+        "left": {
+            "bind": "a",
+            "x": 722
+        },
+        "down": {
+            "bind": "s",
+            "x": 875
+        },
+        "up": {
+            "bind": "k",
+            "x": 1041
+        },
+        "right": {
+            "bind": "l",
+            "x": 1210
+        }
+    }
+}

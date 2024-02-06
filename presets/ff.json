@@ -1,0 +1,23 @@
+{
+    "name": "Funky Friday",
+    "note_height": 819,
+    "hit_delay": 0.075,
+    "notes": {
+        "left": {
+            "bind": "a",
+            "x": 738
+        },
+        "down": {
+            "bind": "s",
+            "x": 886
+        },
+        "up": {
+            "bind": "k",
+            "x": 1034
+        },
+        "right": {
+            "bind": "l",
+            "x": 1178
+        }
+    }
+}
